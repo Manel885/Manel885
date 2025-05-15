@@ -1,5 +1,9 @@
 ### Blz! Meu nome é Emanuel
 
-😎Estudo Python
-👀Aluno Firjan/SENAI
-🎂Nascido 08/08/2005
+Técnico Desenvolvedor de Sistemas de T.I
+
+SENAI Resende-RJ
+
+5/8 Sistemas de Informação - AEDB
+
+AWS Academy Cloud Foundations
